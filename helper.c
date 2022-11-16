@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "main.h"
 
 /**
  * tokenizer - tokenizes input and stores it into an array

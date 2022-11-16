@@ -1,5 +1,4 @@
-Ski
-#include "shell.h"
+#include "main.h"
 
 /**
  *env - prints the current_environnement
